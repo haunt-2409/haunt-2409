@@ -1,23 +1,25 @@
-name: Test GitHub Stats Action
+name: Update README.md
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 5 * * *'  # Runs at 12:00 PM VNT (5:00 AM UTC)
+    - cron: '0 13 * * *' # Runs at 8:00 PM VNT (1:00 PM UTC)
+  workflow_dispatch:
 
 jobs:
-  test-action:
+  update-readme:
+    name: Update README.md
     runs-on: ubuntu-latest
     steps:
-      - name: Run GitHub Stats Action
-        uses: thanhhaudev/github-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_RANGE: "all_time"
-          WAKATIME_DATA: "EDITORS,LANGUAGES,OPERATING_SYSTEMS"
-          SHOW_METRICS: "COMMIT_TIME_OF_DAY,WAKATIME_SPENT_TIME,LANGUAGE_PER_REPO,COMMIT_DAYS_OF_WEEK"
-          TIME_ZONE: "Asia/Ho_Chi_Minh"
-          TIME_LAYOUT: "2006-01-02 15:04:05"
-          SHOW_LAST_UPDATE: "true"
-          ONLY_MAIN_BRANCH: "true"
+    - name: Run GitHub Stats Action
+      uses: thanhhaudev/github-stats@master
+      with:
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        WAKATIME_RANGE: "all_time"
+        WAKATIME_DATA: "EDITORS,LANGUAGES,OPERATING_SYSTEMS"
+        SHOW_METRICS: "COMMIT_TIME_OF_DAY,WAKATIME_SPENT_TIME,LANGUAGE_PER_REPO,COMMIT_DAYS_OF_WEEK"
+        TIME_ZONE: "Asia/Ho_Chi_Minh"
+        TIME_LAYOUT: "2006-01-02 15:04:05"
+        SHOW_LAST_UPDATE: "true"
+        ONLY_MAIN_BRANCH: "true"
