@@ -13,13 +13,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
-      - name: Build and Run Debugging
-        run: |
-          docker build -t github-stats .
-          docker run --rm github-stats ls -al /workspace/cmd/
-          docker run --rm github-stats cat /workspace/cmd/main.go
-
       - name: Run GitHub Stats Action
         uses: thanhhaudev/github-stats@master
         with:
