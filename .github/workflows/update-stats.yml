@@ -25,3 +25,5 @@ jobs:
           TIME_LAYOUT: "2006-01-02 15:04:05"
           SHOW_LAST_UPDATE: "true"
           ONLY_MAIN_BRANCH: "true"
+      - name: List files
+        run: ls -al /github/workspace
