@@ -18,7 +18,7 @@ jobs:
     - name: Run GitHub Stats Action
       uses: thanhhaudev/github-stats@master
       env:
-        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        #WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         WAKATIME_RANGE: "all_time"
         WAKATIME_DATA: "EDITORS,LANGUAGES,OPERATING_SYSTEMS"
