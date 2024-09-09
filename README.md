@@ -4,8 +4,8 @@
 **🕒 I'm An Afternoon Warrior 🥷🏻**
 
 ```text
-🌅 Morning                493 commits         ████████░░░░░░░░░░░░░░░░░   33.33%
-🌞 Daytime                921 commits         ████████████████░░░░░░░░░   62.27%
+🌅 Morning                493 commits         ████████░░░░░░░░░░░░░░░░░   33.29%
+🌞 Daytime                923 commits         ████████████████░░░░░░░░░   62.32%
 🌆 Evening                61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12%
 🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27%
 ```
@@ -21,15 +21,32 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 ```text
 Sunday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27%
-Monday                   273 commits         █████░░░░░░░░░░░░░░░░░░░░   18.46%
-Tuesday                  282 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07%
-Wednesday                281 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00%
-Thursday                 320 commits         █████░░░░░░░░░░░░░░░░░░░░   21.64%
-Friday                   310 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96%
+Monday                   275 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57%
+Tuesday                  282 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04%
+Wednesday                281 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97%
+Thursday                 320 commits         █████░░░░░░░░░░░░░░░░░░░░   21.61%
+Friday                   310 commits         █████░░░░░░░░░░░░░░░░░░░░   20.93%
 Saturday                 9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61%
 ```
 
+**💬 Languages**
+
+![Python](https://img.shields.io/badge/Python-00.14%25-3572A5?&logo=Python&labelColor=000)
+![PowerShell](https://img.shields.io/badge/PowerShell-00.03%25-012456?&logo=PowerShell&labelColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-22.91%25-3178c6?&logo=TypeScript&labelColor=000)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-00.16%25-384d54?&logo=Dockerfile&labelColor=000)
+![Makefile](https://img.shields.io/badge/Makefile-00.40%25-427819?&logo=Makefile&labelColor=000)
+![Shell](https://img.shields.io/badge/Shell-00.32%25-89e051?&logo=Shell&labelColor=000)
+![HTML](https://img.shields.io/badge/HTML-03.63%25-e34c26?&logo=HTML&labelColor=000)
+![Ruby](https://img.shields.io/badge/Ruby-00.05%25-701516?&logo=Ruby&labelColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-00.04%25-f1e05a?&logo=JavaScript&labelColor=000)
+![SCSS](https://img.shields.io/badge/SCSS-00.02%25-c6538c?&logo=SCSS&labelColor=000)
+![PLpgSQL](https://img.shields.io/badge/PLpgSQL-00.01%25-336790?&logo=PLpgSQL&labelColor=000)
+![Go](https://img.shields.io/badge/Go-72.21%25-00ADD8?&logo=Go&labelColor=000)
+![CSS](https://img.shields.io/badge/CSS-00.06%25-563d7c?&logo=CSS&labelColor=000)
 
 
-*⏳ Last updated on 2024-09-09 12:17:37 +07*
+
+
+*⏳ Last updated on 2024-09-09 12:55:05 +07*
 <!--END_SECTION:readme-stats-->
