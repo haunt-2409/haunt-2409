@@ -4,8 +4,8 @@
 **🕒 I'm An Afternoon Warrior 🥷🏻**
 
 ```text
-🌅 Morning                493 commits         🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.11%
-🌞 Daytime                930 commits         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜   62.46%
+🌅 Morning                493 commits         🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.09%
+🌞 Daytime                931 commits         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜   62.48%
 🌆 Evening                62 commits          🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.16%
 🌙 Night                  4 commits           🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.27%
 ```
@@ -21,21 +21,21 @@ TypeScript               1 repo              🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜�
 
 ```text
 Sunday                   4 commits           🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.27%
-Monday                   281 commits         🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.87%
-Tuesday                  284 commits         🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.07%
-Wednesday                281 commits         🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.87%
-Thursday                 320 commits         🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.49%
-Friday                   310 commits         🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.82%
+Monday                   281 commits         🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.86%
+Tuesday                  285 commits         🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.13%
+Wednesday                281 commits         🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.86%
+Thursday                 320 commits         🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.48%
+Friday                   310 commits         🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.81%
 Saturday                 9 commits           🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.60%
 ```
 
 **💬 Languages**
 
-![Go](https://img.shields.io/badge/Go-72.22%25-00ADD8?&logo=Go&labelColor=151b23)
-![TypeScript](https://img.shields.io/badge/TypeScript-22.90%25-3178c6?&logo=TypeScript&labelColor=151b23)
-![HTML](https://img.shields.io/badge/HTML-03.63%25-e34c26?&logo=HTML&labelColor=151b23)
+![Go](https://img.shields.io/badge/Go-71.73%25-00ADD8?&logo=Go&labelColor=151b23)
+![TypeScript](https://img.shields.io/badge/TypeScript-23.47%25-3178c6?&logo=TypeScript&labelColor=151b23)
+![HTML](https://img.shields.io/badge/HTML-03.58%25-e34c26?&logo=HTML&labelColor=151b23)
 ![Makefile](https://img.shields.io/badge/Makefile-00.40%25-427819?&logo=Makefile&labelColor=151b23)
-![Shell](https://img.shields.io/badge/Shell-00.32%25-89e051?&logo=Shell&labelColor=151b23)
+![Shell](https://img.shields.io/badge/Shell-00.31%25-89e051?&logo=Shell&labelColor=151b23)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-00.16%25-384d54?&logo=Dockerfile&labelColor=151b23)
 ![Python](https://img.shields.io/badge/Python-00.14%25-3572A5?&logo=Python&labelColor=151b23)
 ![CSS](https://img.shields.io/badge/CSS-00.06%25-563d7c?&logo=CSS&labelColor=151b23)
@@ -48,5 +48,5 @@ Saturday                 9 commits           🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
-*⏳ Last updated on 2024-09-10 13:09:01 +07*
+*⏳ Last updated on 2024-09-10 20:17:48 +07*
 <!--END_SECTION:readme-stats-->
